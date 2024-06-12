@@ -126,6 +126,6 @@ To contribute to Patronify, see the GitHub documentation on **[creating a pull r
 Give a ⭐️ if you like this project!
 ___________________________________
 
-<p>&copy; 2021 Leah Nguyen</p>
+<p>&copy; Chung Anh Nguyen</p>
 
 
