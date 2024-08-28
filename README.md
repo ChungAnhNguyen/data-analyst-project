@@ -1,7 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](new link)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)]
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ChungAnhNguyen)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ChungAnhNguyen?tab=repositories)
 
 # People Data Analytics <img src="/IMG/3aQl.gif" align="right" width="120" />
 
@@ -86,11 +86,11 @@ Click to view
 
 # 📂 Data Overview
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Data_Exploration_Folder-A80101?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/HR-Analytics-Using-SQL/tree/main/1_Data_Exploration)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Data_Exploration_Folder-A80101?style=for-the-badge&logo=GITHUB)](https://github.com/ChungAnhNguyen/data-analyst-project/tree/main/1_Data_Exploration)
 
 # 🚀 Solutions
 
-[![View Data Join Folder](https://img.shields.io/badge/View-Problem_Solving_Folder-A80101?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/HR-Analytics-Using-SQL/tree/main/2_Problem_Solving)
+[![View Data Join Folder](https://img.shields.io/badge/View-Problem_Solving_Folder-A80101?style=for-the-badge&logo=GITHUB)](https://github.com/ChungAnhNguyen/data-analyst-project/tree/main/2_Problem_Solving)
 
 # 🧙‍♂️ Result
 
